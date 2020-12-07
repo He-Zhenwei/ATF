@@ -1,6 +1,7 @@
 # ATF
 The code of our ECCV paper: Domain Adaptive Object Detection via Asymmetric Tri-way Faster-RCNN
 
+The code is based on the Pytorch 0.4.0.
 For training our model for Cityscapes and Foggy Cityscapes datasets:
 
 python da_trainval_net.py 
